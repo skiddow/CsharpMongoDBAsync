@@ -45,5 +45,12 @@ using (ChoreDataAccess db = new ChoreDataAccess())
     };
 
     await db.CreateChore(chore);
+
+    var chores = await db.GetAllChores();
+
+    var newChore = chores.First();
+    newChore.LastCompleted = DateTime.Now;
+
+    await db.CompleteChore(newChore);
 }
     
