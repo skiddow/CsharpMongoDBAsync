@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29c405c4-a33f-4a17-af37-844c53272e7a": {
+      "ProjectGuid": "29c405c4-a33f-4a17-af37-844c53272e7a",
+      "DisplayName": "CsharpMongoDBAsync",
+      "ColorIndex": 0
+    },
+    "b451c796-ce6c-4b32-a5f8-2228b99f1a43": {
+      "ProjectGuid": "b451c796-ce6c-4b32-a5f8-2228b99f1a43",
+      "DisplayName": "MongoDBAccess",
+      "ColorIndex": 1
+    },
+    "5347d176-d76f-46f6-a2fb-a601c35651ce": {
+      "ProjectGuid": "5347d176-d76f-46f6-a2fb-a601c35651ce",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
